@@ -1,0 +1,22 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="appbar_layout_height">275dp</dimen>
+    <dimen name="toolbar_min_height">64dp</dimen>
+    <dimen name="overlap_top">64dp</dimen>
+    <dimen name="nested_scrollview_margin">8dp</dimen>
+    <dimen name="card_view_margin">8dp</dimen>
+    <dimen name="detail_poster_width">200dp</dimen>
+    <dimen name="detail_poster_height">250dp</dimen>
+    <dimen name="detail_poster_margin">4dp</dimen>
+    <dimen name="detail_linear_layout_margin">4dp</dimen>
+    <dimen name="detail_text_view_heading_margin">4dp</dimen>
+    <dimen name="detail_plot_heading_margin">8dp</dimen>
+    <dimen name="detail_text_view_normal_margin">4dp</dimen>
+    <dimen name="detail_text_view_normal_padding">8dp</dimen>
+    <dimen name="detail_text_view_heading_text_size">25sp</dimen>
+    <dimen name="detail_text_view_normal_text_size">20sp</dimen>
+    <dimen name="detail_genre_normal_text_size">15sp</dimen>
+    <dimen name="gridview_spacing">1dp</dimen>
+</resources>
